@@ -16,3 +16,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubsayah&show_icons=true&locale=en" alt="ayoubsayah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubsayah&" alt="ayoubsayah" /></p>
+<a href="https://app.daily.dev/esreon"><img src="https://api.daily.dev/devcards/v2/hsDl8AHHDL0HrCncodEDe.png?r=wkv&type=wide" width="652" alt="Ayoub Sayah's Dev Card"/></a>
+
